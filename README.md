@@ -8,6 +8,7 @@ To build the docker image:
 Verify the image:
 
 ```docker image ls```
+
 If the image was created, it should appear as 
 **REPOSITORY           TAG**
 **spring-boot-docker   spring-docker**
